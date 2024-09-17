@@ -1,0 +1,16 @@
+{
+  "id": 666,
+  "category": {
+    "id": 0,
+    "name": "Beyaz"
+  },
+  "name": "dogs",
+
+  "tags": [
+    {
+      "id": 1,
+      "name": "Mavi"
+    }
+  ],
+  "status": "friednly"
+}
